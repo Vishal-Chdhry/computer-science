@@ -23,7 +23,7 @@
 
 # Summary
 
-~~~The OSSU curriculum is a **complete education in computer science** using online materials.
+The OSSU curriculum is a **complete education in computer science** using online materials.
 It's not merely for career training or professional development.
 It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
 and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
@@ -105,10 +105,10 @@ just remember that you can't purchase success!
 
 ## Prerequisites
 
-- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.
-- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
+~~- [Core CS](#core-cs) assumes the student has already taken [high school math](https://github.com/ossu/computer-science/blob/master/FAQ.md#how-can-i-review-the-math-prerequisites), including algebra, geometry, and pre-calculus.~~
+~~- [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
-- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
+- Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).~~
 
 ## Intro CS
 
